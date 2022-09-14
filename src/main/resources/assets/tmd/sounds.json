@@ -1,0 +1,371 @@
+{
+  "music_disc.quackity_song": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/quackity_song",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.quackity_song"
+  },
+  "music_disc.8bit_madness": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/8bit_madness",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.8bit_madness"
+  },
+  "music_disc.adventure_custom_minecraft_music_disc": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/adventure_custom_minecraft_music_disc",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.adventure_custom_minecraft_music_disc"
+  },
+  "music_disc.aether": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/aether",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.aether"
+  },
+  "music_disc.alex": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/alex",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.alex"
+  },
+  "music_disc.agression_egression": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/agression_egression",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.agression_egression"
+  },
+  "music_disc.alive": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/alive",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.alive"
+  },
+  "music_disc.amethyst": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/amethyst",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.amethyst"
+  },
+  "music_disc.andesite": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/andesite",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.andesite"
+  },
+  "music_disc.anti": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/anti",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.anti"
+  },
+  "music_disc.anti_music_disc": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/anti_music_disc",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.anti_music_disc"
+  },
+  "music_disc.aqua": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/aqua",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.aqua"
+  },
+  "music_disc.arachnid": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/arachnid",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.arachnid"
+  },
+  "music_disc.aster": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/aster",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.aster"
+  },
+  "music_disc.atlantis": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/atlantis",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.atlantis"
+  },
+  "music_disc.bad": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/bad",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.bad"
+  },
+  "music_disc.bamboo": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/bamboo",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.bamboo"
+  },
+  "music_disc.beauty_of_magic": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/beauty_of_magic",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.beauty_of_magic"
+  },
+  "music_disc.because": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/because",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.because"
+  },
+  "music_disc.birch_bop": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/birch_bop",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.birch_bop"
+  },
+  "music_disc.bittersweet": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/bittersweet",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.bittersweet"
+  },
+  "music_disc.blew": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/blew",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.blew"
+  },
+  "music_disc.blue": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/blue",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.blue"
+  },
+  "music_disc.bricks": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/bricks",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.bricks"
+  },
+  "music_disc.burnt": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/burnt",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.burnt"
+  },
+  "music_disc.calamity": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/calimity",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.calimity"
+  },
+  "music_disc.candyfloss": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/candyfloss",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.candyfloss"
+  },
+  "music_disc.caravan": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/caravan",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.caravan"
+  },
+  "music_disc.cascade": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/cascade",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.cascade"
+  },
+  "music_disc.cave": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/cave",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.cave"
+  },
+  "music_disc.cavern": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/cavern",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.cavern"
+  },
+  "music_disc.caves": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/caves",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.caves"
+  },
+  "music_disc.charlie": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/charlie",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.charlie"
+  },
+  "music_disc.charr": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/charr",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.charr"
+  },
+  "music_disc.cheese": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/cheese",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.cheese"
+  },
+  "music_disc.chemistry": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/chemistry",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.chemistry"
+  },
+  "music_disc.chicken": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/chicken",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.chicken"
+  },
+  "music_disc.chill": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/chill",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.chill"
+  },
+  "music_disc.chillcrafter": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/chillcrafter",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.chillcrafter"
+  },
+  "music_disc.chorus_fruit": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/chorus_fruit",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.chorus_fruit"
+  },
+  "music_disc.fruit_hell": {
+    "sounds": [
+      {
+        "name": "tmd:music_disc/fruit_hell",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.tmd.fruit_hell"
+  }
+}
